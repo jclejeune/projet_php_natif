@@ -1,7 +1,7 @@
     </section>
     <footer class="footer">
       <div class="container">
-        <span class="text-muted font-weight-light">CONTACT: Patricia OVADIA - Directrice du Campus 17 rue Albert Thomas – 78130 Les Mureaux Tél : +33 (0)1 39 07 76 23 | WF3 &copy;2018</span>
+        <span class="text-muted font-weight-light text-center">Contact | WF3 &copy;2018</span>
       </div>
     </footer>
 
