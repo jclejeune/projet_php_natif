@@ -1,7 +1,7 @@
 <?php
 require_once './inc/header.php';
 ?>
-<div class="container contenu">
+<div class="container contenu padding-top-2 text-center">
     <div>
         <h2>Le Campus</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, repellendus ullam. Provident ullam soluta eveniet exercitationem voluptatibus libero omnis rem aperiam cupiditate id?</p>  

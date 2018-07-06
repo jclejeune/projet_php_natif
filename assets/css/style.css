@@ -3,17 +3,25 @@
 
 @font-face {
     font-family: 'DIN regular';
-    src: url('assets/fonts/DIN-Regular.ttf') format('truetype');
+    src: url('../fonts/DIN-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'DIN Black';
-    src: url('assets/fonts/DIN-Black.ttf') format('truetype');
+    src: url('../fonts/DIN-Black.ttf') format('truetype');
 }
 
+a{
+    margin: 0;
+    padding: 0;
+}
 .container
 {
     width: 960px;
+}
+
+.bg-white{
+    background: #FFFFFF;
 }
 
 .bg-campus
@@ -24,55 +32,89 @@
 .titre-1,h1{
     font-family: 'DIN Black', sans-serif;
     color: #1027D1;
+
 }
 
 .titre-2, h2, h3, h4, h5, h6{
     font-family: 'DIN regular', sans-serif;
     color: #1027D1;
+
 }
 
 .titre-2{
-    font-size: 1.2em;
+    font-size: 1.3em;
+    font-family: 'DIN regular', sans-serif;
+
+}
+
+.titre-4{
+    font-size: 1.4em;
+    font-family: 'DIN regular', sans-serif;
+    color: #1027D1;
+
 }
 
 .text-3{
     font-family: Arial, sans-serif;
     color: #1027D1;
+
 }
 
 .dropdown-item.active, .dropdown-item:active {
     color: #fff;
     text-decoration: none;
     background-color: #1027D1;
+
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
     color: #0691DE;
     text-decoration: none;
     background-color: #00000000;
+
 }
 
 .dropdown-item {
     color: #1027D1;
+
 }
 
 a:hover {
     color: #065CE8;
     text-decoration: none;
+
 }
 
 .contenu{
     min-height: 500px;
+
 }
 
 .espace{
     padding-bottom: 700px;
+
 }
 
+
 .marge_nav{
-    margin-bottom: 170px;
+    margin-bottom: 150px;
+
 }
 
 .marge_anchor{
     margin-top: 170px;
+
+}
+
+.padding-top-1{
+    padding-top: 200px;
+}
+.padding-top-2{
+    padding-top: 180px;
+}
+
+.ancre{
+        display: block;
+        position: relative;
+        top: -200px;
 }
