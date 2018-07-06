@@ -1,34 +1,78 @@
 /*-----------------------couleurs arrière-plan personnalisés-----------------*/
+
+
+@font-face {
+    font-family: 'DIN regular';
+    src: url('assets/fonts/DIN-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DIN Black';
+    src: url('assets/fonts/DIN-Black.ttf') format('truetype');
+}
+
 .container
 {
     width: 960px;
 }
 
-.bg-bluecampus
+.bg-campus
 {
-    background: #104285;
+    background: #1027D1;
 }
 
-.bg-navyvelines
-{
-    background: #4c4c4c;
+.titre-1,h1{
+    font-family: 'DIN Black', sans-serif;
+    color: #1027D1;
 }
 
-.bg-white
-{
-    background: #ffffff;
+.titre-2, h2, h3, h4, h5, h6{
+    font-family: 'DIN regular', sans-serif;
+    color: #1027D1;
 }
 
-/*-----------------------couleurs texte personnalisés-------------------------*/
-
-.text-bluecampus
-{
-    color: #104285;
+.titre-2{
+    font-size: 1.2em;
 }
 
-/*------------------------Polices texte personnalisées------------------------*/
+.text-3{
+    font-family: Arial, sans-serif;
+    color: #1027D1;
+}
 
-.campus
-{
-    font-family: 'Roboto Condensed', sans-serif;
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #1027D1;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #0691DE;
+    text-decoration: none;
+    background-color: #00000000;
+}
+
+.dropdown-item {
+    color: #1027D1;
+}
+
+a:hover {
+    color: #065CE8;
+    text-decoration: none;
+}
+
+.contenu{
+    min-height: 500px;
+}
+
+.espace{
+    padding-bottom: 700px;
+}
+
+.marge_nav{
+    margin-bottom: 170px;
+}
+
+.marge_anchor{
+    margin-top: 170px;
 }
