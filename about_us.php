@@ -17,11 +17,12 @@
             <a class="text-campus" href="#top"><i class="fas fa-angle-up"></i></a>
         </div>
 
-        <div class="ancre py-4 " id="enimage">
-            <h4 class="text-center">En Image</h4>
-            <iframe  class="py-4 w-100" width="560" height="315" src="https://www.youtube.com/embed/LAOc1nuDSJY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            <a class="text-campus" href="#top"><i class="fas fa-angle-up"></i></a>
-            </div>
+        <div class="ancre" id="enimage">
+            <h4 class="text-center py-4">En Image</h4>
+            <div class="p-0 m-0">
+                <iframe class="w-100" width="560" height="315" src="https://www.youtube.com/embed/LAOc1nuDSJY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>    
+        </div>
 
         <div class="ancre py-4 " id="team">
             <h4 class="text-center">L'équipe</h4>

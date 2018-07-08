@@ -10,7 +10,7 @@
     </head>
     <body>
     <header id="top">
-        <nav class="navbar navbar-expand-lg bg-light border-bottom m-0 p-0">
+        <nav class="navbar navbar-expand-lg bg-white border-bottom m-0 p-0 py-2">
             <div class="col-md-2">
                 <a href="index.php"><img class="m-0 p-0" src="assets/img/logo_leCampus_rvb_bleu.png" alt="logo campus" width="150"></a>
                 <button class="navbar-toggler col-lg-8" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,9 +20,10 @@
             <div class="col-md-8 collapse navbar-collapse justify-content-center p-0 m-0" id="navbarNavAltMarkup">
                 <div class="navbar-nav text-center">
                     <a class="nav-item nav-link titre-2" href="quisommesnous.php">Qui sommes nous?</a>
-                    <a class="nav-item nav-link titre-2" href="events.php">Evènement</a>
+                    <a class="nav-item nav-link titre-2" href="events.php">Evènements</a>
                     <a class="nav-item nav-link titre-2" href="articles.php">Articles</a>
                     <a class="nav-item nav-link titre-2" href="trouvernous.php">Nous retrouver</a>
+                    <a class="nav-item nav-link titre-2" href="user.php">Mon Compte</a>
                 </div>
             </div>
         </nav>

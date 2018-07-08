@@ -1,35 +1,30 @@
   </section>
     <footer class="footer sticky-bottom">
-      <div class="bg-campus  py-2">
-          <div class="card-body row justify-content-center">
-                <div class="col-md-5 mr-4">
-                    <ul class="list-inline pr-4">
+      <div class="bg-campus  py-4">
+          <div class="container m-auto row justify-content-center">
+              <div class="col-md-6 text-center p-0">
+                    <ul class="list-inline">
                         <li class="list-inline-item p-0">
-                          <a class="text-light titre-2" href="#">Quelques chiffres</a>
+                          <a class="text-light titre-3 mx-4" href="#">Quelques chiffres</a>
                         </li>
                         <li class="list-inline-item p-0">
-                          <a class="text-light titre-2" href="#">Carte</a>
+                          <a class="text-light titre-3  mx-4" href="#">Carte</a>
                         </li>
                         <li class="list-inline-item p-0">
-                          <a class="text-light titre-2" href="#">Juridique</a>
+                          <a class="text-light titre-3  mx-4" href="#">Juridique</a>
                         </li>
                         <li class="list-inline-item p-0">
-                          <a class="text-light titre-2" href="#">Contact</a>
+                          <a class="text-light titre-3  mx-4" href="#">Contact</a>
                         </li>               
                     </ul>
-                </div>
+              </div>
 
-                <div class="col-md-2 mb-4 text-left">
+              <div class="col-md-3 mb-2 text-center">
                     <div>
-                        <a href="https://twitter.com/LeCampusInno"><!--<i class="fab fa-twitter-square mx-4"></i>--><span class="text-light titre-2">Twitter</span></a>
+                        <a href="https://twitter.com/LeCampusInno"><!--<i class="fab fa-twitter-square mx-4"></i>--><span class="text-light titre-3 px-4">Twitter</span></a>
+                        <a href="#"><!--<i class="fab fa-linkedin mx-4"></i>--><span class="text-light titre-3 px-4">LinkedIn</span></a>
                     </div>
-                    <div>
-                        <a href="#"><!--<i class="fab fa-linkedin mx-4"></i>--><span class="text-light titre-2">Linked In</span></a>
-                    </div>
-                </div>                
-          </div> 
-          <div class="col-md-6 offset-md-3 sticky-bottom text-light"><p class="small text-center">WF3 &copy; 2018</p></div>         
-        </div>    
+            </div>                   
       </div>      
     </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
