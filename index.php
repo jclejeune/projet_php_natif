@@ -2,9 +2,10 @@
 require_once './inc/header.php';
 ?>
 
-  <div class="container contenu padding-top-2 text-center">
+  <div class="container contenu text-center">
     <div class="w-100 text-center">
-      <h2>Bienvenue!</h2>
+      <h2 class="py-4">Bienvenue sur le site du Campus des Mureaux!</h2>
+      <img class="justify-content-center w-100" src="assets/img/campus-des-mureaux.jpg">
     <div>
 </div>
 

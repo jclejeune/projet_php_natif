@@ -1,18 +1,17 @@
-<div class="container contenu">
-    <div class="row py-4">
-        <div class="text-center px-4 mx-2 w-100 titre-2">
-            <a class="titre-2" href="#googlemap">Google Map</a>
-            <span>|</span>
-            <a class="titre-2" href="#plandusite">Plan du site</a>
-            <span>|</span>
-            <a class="titre-2" href="#transport">Transport</a>
-        </div>
-    </div>
-    <div class="row mb-4">
-        <div class="text-center px-4 mx-2 w-100 titre-2">
-            <a class="titre-2" href="#adresse">Adresse</a>
-            <span>|</span>
-            <a class="titre-2" href="#contactus">Contacter nous</a>
-        </div>        
+<div class="container contenu  mb-4">
+    <div class="col-md-10 offset-md-1 py-4 ">
+            <div class="row">
+                <div class="col-md-10 offset-md-1 p-0 list-inline text-center">
+                    <h4 class="text-center list-inline-item"><a class="titre-2" href="#googlemap">Google Map</a></h4>
+                    <h4 class="text-center list-inline-item"><a class="titre-2" href="#plandusite">Plan du site</a></h4>
+                    <h4 class="text-center list-inline-item"><a class="titre-2" href="#transport">Transport</a></h4>
+                </div> 
+            </div>
+            <div class="row">
+                <div class="col-md-10 offset-md-1 p-0 list-inline text-center">
+                    <h4 class="text-center list-inline-item"><a class="titre-2" href="#adresse">Adresse</a></h4>
+                    <h4 class="text-center list-inline-item"><a class="titre-2" href="#contactus">Contacter nous</a></h4>
+                </div>   
+            </div>
     </div>
 </div>

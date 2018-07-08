@@ -11,6 +11,11 @@
     src: url('../fonts/DIN-Black.ttf') format('truetype');
 }
 
+body
+{
+	overflow-y: scroll;
+}
+
 a{
     margin: 0;
     padding: 0;
@@ -23,6 +28,7 @@ a{
 .contenu{
     min-height: 700px;
 }
+
 
 .bg-white{
     background: #FFFFFF;
@@ -57,7 +63,7 @@ a{
 }
 
 .titre-4{
-    font-size: 1em;
+    font-size: 1.2em;
     font-family: 'DIN regular', sans-serif;
     color: #1027D1;
     min-width: 200px;
@@ -79,7 +85,7 @@ a{
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
-    color: #0691DE;
+    color: #1027D1;
     text-decoration: none;
     background-color: #00000000;
 
@@ -91,18 +97,15 @@ a{
 }
 
 a:hover {
-    color: #065CE8;
+    color: #1027D1;
     text-decoration: none;
 
 }
 
-.contenu{
-    min-height: 500px;
 
-}
 
 .espace{
-    padding-bottom: 700px;
+    padding-bottom: 500px;
 
 }
 
@@ -128,4 +131,5 @@ a:hover {
         display: block;
         position: relative;
         top: -200px;
+        min-height: 300px;
 }
