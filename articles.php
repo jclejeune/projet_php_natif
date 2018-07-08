@@ -1,14 +1,38 @@
 <?php
 require_once './inc/header.php';
 ?>
-<div class="container contenu padding-top-2 text-center">
-    <div>
-        <h2>Le Campus</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, repellendus ullam. Provident ullam soluta eveniet exercitationem voluptatibus libero omnis rem aperiam cupiditate id?</p>  
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis iure dignissimos eveniet repudiandae, voluptatibus quam, ipsa nulla optio perferendis officia deserunt nisi placeat corrupti! Ad recusandae necessitatibus sunt porro iure non nobis. Incidunt ducimus nam eligendi quia, nulla magni fuga fugit!
-        </p>
-    </div>   
-</div>
+    <div class="container contenu">  
+        <div class="row">  
+            <div class="col-md-10 offset-md-1 p-0">
+                <h2 class="py-4 text-center">Article</h2>            
+                <a href="https://placeholder.com"><img class="justify-content-center w-100" src="http://via.placeholder.com/350x150"></a>
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, repellendus ullam. Provident ullam soluta eveniet exercitationem voluptatibus libero omnis rem aperiam cupiditate id?</p>  
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae adipisci quidem inventore expedita, reprehenderit odit ratione dolor vitae sunt libero provident sapiente consectetur nisi incidunt ad eligendi. Nobis ea commodi tempore deserunt ducimus, ullam corporis, voluptatibus, sint illum sunt asperiores. Eum atque totam maxime veniam laborum aliquam et officia modi tempore facere, tenetur magni voluptatem quasi nisi nam animi assumenda, quisquam minus dolorum repellat impedit ea distinctio. A quam dignissimos nisi impedit porro quia, cum libero atque accusantium nesciunt adipisci?</p>
+            </div> 
+        </div>
+        <div class="row">  
+            <div class="col-md-10 offset-md-1 p-0">
+                <h2 class="py-4 text-center">Article</h2>            
+                <a href="https://placeholder.com"><img class="justify-content-center w-100" src="http://via.placeholder.com/350x150"></a>
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, repellendus ullam. Provident ullam soluta eveniet exercitationem voluptatibus libero omnis rem aperiam cupiditate id?</p>  
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae adipisci quidem inventore expedita, reprehenderit odit ratione dolor vitae sunt libero provident sapiente consectetur nisi incidunt ad eligendi. Nobis ea commodi tempore deserunt ducimus, ullam corporis, voluptatibus, sint illum sunt asperiores. Eum atque totam maxime veniam laborum aliquam et officia modi tempore facere, tenetur magni voluptatem quasi nisi nam animi assumenda, quisquam minus dolorum repellat impedit ea distinctio. A quam dignissimos nisi impedit porro quia, cum libero atque accusantium nesciunt adipisci?</p>
+            </div> 
+        </div>
+        <div class="row">  
+            <div class="col-md-10 offset-md-1 p-0">
+                <h2 class="py-4 text-center">Article</h2>            
+                <a href="https://placeholder.com"><img class="justify-content-center w-100" src="http://via.placeholder.com/350x150"></a>
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, repellendus ullam. Provident ullam soluta eveniet exercitationem voluptatibus libero omnis rem aperiam cupiditate id?</p>  
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae adipisci quidem inventore expedita, reprehenderit odit ratione dolor vitae sunt libero provident sapiente consectetur nisi incidunt ad eligendi. Nobis ea commodi tempore deserunt ducimus, ullam corporis, voluptatibus, sint illum sunt asperiores. Eum atque totam maxime veniam laborum aliquam et officia modi tempore facere, tenetur magni voluptatem quasi nisi nam animi assumenda, quisquam minus dolorum repellat impedit ea distinctio. A quam dignissimos nisi impedit porro quia, cum libero atque accusantium nesciunt adipisci?</p>
+            </div> 
+        </div>      
+    </div>
 <?php
 require_once './inc/footer.php';
 ?>

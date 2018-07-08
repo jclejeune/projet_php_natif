@@ -17,7 +17,11 @@ a{
 }
 .container
 {
-    width: 960px;
+    width: 80%;
+}
+
+.contenu{
+    min-height: 700px;
 }
 
 .bg-white{
@@ -27,6 +31,11 @@ a{
 .bg-campus
 {
     background: #1027D1;
+}
+
+.text-campus
+{
+    color: #1027D1;
 }
 
 .titre-1,h1{
@@ -48,9 +57,11 @@ a{
 }
 
 .titre-4{
-    font-size: 1.4em;
+    font-size: 1em;
     font-family: 'DIN regular', sans-serif;
     color: #1027D1;
+    min-width: 200px;
+    text-align: center;
 
 }
 

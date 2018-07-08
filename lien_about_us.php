@@ -1,5 +1,5 @@
-<div class="container padding-top-2">
-    <div class="row">
+<div class="container contenu">
+    <div class="row py-4">
         <div class="text-center px-4 mx-2 w-100 titre-2">
             <a class="titre-2" href="#chiffres">Quelques chiffres</a>
             <span>|</span>
