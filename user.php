@@ -8,20 +8,7 @@ require_once './inc/header.php';
         <h4 class="pb-4 text-center"> et<br>recevez votre badge directement<br>sur votre smartphone!</h4>
 
         <form>
-                <div class="col-md-6 offset-md-3 form-group">
-                    <div class="form-check pb-2">
-                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
-                        <label class="form-check-label" for="exampleRadios1">
-                            Madame
-                        </label>
-                    </div>
-                    <div class="form-check pb-2">
-                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
-                        <label class="form-check-label" for="exampleRadios2">
-                            Monsieur
-                        </label>
-                    </div>
-                </div>
+                
             
                 <div class="form-group col-md-6 offset-md-3">
                     <input type="text" class="form-control" id="firstname" name="firstname" placeholder="Prénom">

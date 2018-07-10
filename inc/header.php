@@ -22,8 +22,7 @@
                     <a class="nav-item nav-link titre-2" href="quisommesnous.php">Qui sommes nous?</a>
                     <a class="nav-item nav-link titre-2" href="events.php">Evènements</a>
                     <a class="nav-item nav-link titre-2" href="articles.php">Articles</a>
-                    <a class="nav-item nav-link titre-2" href="trouvernous.php">Nous retrouver</a>
-                    <a class="nav-item nav-link titre-2" href="user.php">Mon Compte</a>
+                    <a class="nav-item nav-link titre-2" href="trouvernous.php">Nous retrouver</a>                    
                 </div>
             </div>
         </nav>
